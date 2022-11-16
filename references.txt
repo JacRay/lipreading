@@ -1,0 +1,23 @@
+Depth seperable convolution:
+https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
+
+Deep lip reading:
+https://www.robots.ox.ac.uk/~vgg/research/deep_lip_reading/
+
+Lipnet:
+https://lipnet.ai/
+
+RNN:
+https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7
+
+TEmporal Convolution:
+https://towardsdatascience.com/temporal-convolutional-networks-the-next-revolution-for-time-series-8990af826567
+
+Convolution:
+https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1
+
+Handwriting to Text Conversion using Time Distributed CNN and LSTM with CTC Loss Function:
+https://towardsdatascience.com/handwriting-to-text-conversion-using-time-distributed-cnn-and-lstm-with-ctc-loss-function-a784dccc8ec3
+
+Face detection:
+https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php
