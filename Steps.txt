@@ -1,0 +1,11 @@
+Preprocessing:
+Croped Mouth image
+DLib Face detector
+
+Model:
+depth wise convolution in each frame
+t frame to stcnn spatial polling
+gru
+ctc loss
+softmax
+character probablities
