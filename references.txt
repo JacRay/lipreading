@@ -27,3 +27,6 @@ https://www.analyticsvidhya.com/blog/2021/08/all-you-need-to-know-about-skip-con
 
 Word prediction:
 https://www.analyticsvidhya.com/blog/2021/08/predict-the-next-word-of-your-text-using-long-short-term-memory-lstm/
+
+Character level:
+https://towardsdatascience.com/character-level-language-model-1439f5dd87fe
