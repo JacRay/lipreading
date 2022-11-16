@@ -21,3 +21,6 @@ https://towardsdatascience.com/handwriting-to-text-conversion-using-time-distrib
 
 Face detection:
 https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php
+
+Shortcut connection:
+https://www.analyticsvidhya.com/blog/2021/08/all-you-need-to-know-about-skip-connections/
